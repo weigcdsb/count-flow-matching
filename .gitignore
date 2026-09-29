@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+
+# Local data and experiment artifacts
+read_data/
+hc-3-linear/
+external/
+saved_models/
+hc3_ckpts/
+*.pt
+*.pth
+*.npz
+*.npy
+*.h5ad
+*.pkl
+*_figures_pdf/
